@@ -52,7 +52,10 @@
     4 Admin Engine [] []
     4 BSFPlayerController BSF [] []
     4 GamePlayerController GameFramework [A] []
+<<<<<<< HEAD
      5 CustomPlayerController customgame [] []
+=======
+>>>>>>> 9603e04a586ac8088ff2db921e540a11a1a9b583
      5 DebugCameraController GameFramework [] []
       6 MobileDebugCameraController GameFramework [] []
      5 MobileMenuPlayerController GameFramework [] []
@@ -128,8 +131,11 @@
     4 FogVolumeLinearHalfspaceDensityInfo Engine [P] []
     4 FogVolumeSphericalDensityInfo Engine [P] []
    3 GameInfo Engine [] []
+<<<<<<< HEAD
     4 BSFGame BSF [] []
     4 CustomGameInfo customgame [] []
+=======
+>>>>>>> 9603e04a586ac8088ff2db921e540a11a1a9b583
     4 FrameworkGame GameFramework [] []
      5 SimpleGame UDKBase [] []
       6 CloudGame UDKBase [] []
@@ -202,6 +208,7 @@
   2 MaterialInstanceActor Engine [P] []
   2 MaterialInstanceTimeVaryingActor Engine [P] []
   2 MatineeActor Engine [] []
+  2 MyClass CustomGame [] []
   2 NavigationPoint Engine [] [Navigation]
    3 CoverLink Engine [P] [Cover]
    3 DoorMarker Engine [P] []
@@ -249,7 +256,10 @@
   2 ParticleEventManager Engine [A] []
   2 Pawn Engine [PA] []
    3 GamePawn GameFramework [A] []
+<<<<<<< HEAD
     4 CustomPawn customgame [] []
+=======
+>>>>>>> 9603e04a586ac8088ff2db921e540a11a1a9b583
     4 MobilePlaceablePawn UDKBase [P] []
     4 SimplePawn UDKBase [] []
     4 UDKPawn UDKBase [] []
